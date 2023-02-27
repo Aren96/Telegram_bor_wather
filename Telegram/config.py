@@ -1,0 +1,9 @@
+TOKEN = "5941197504:AAG8YUoO2J5uXmQJSN0TH79ww4E_88grPbc"
+
+open_wather_token = "79c0337a08622f7c566ff42da1a5d93e"
+
+
+
+
+
+
